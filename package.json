@@ -1,0 +1,20 @@
+{
+  "name": "safecode",
+  "version": "0.1.0",
+  "description": "a library that checks whether or not you can code safely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jperreaultcl/safecode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jperreaultcl/safecode/issues"
+  },
+  "homepage": "https://github.com/jperreaultcl/safecode#readme"
+}
